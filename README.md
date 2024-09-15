@@ -8,15 +8,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <link rel="canonical" href="https://member77login.github.io/member77/">
-	<link rel="icon" type="image/x-icon" href="https://jpgsatset.com/wp-content/uploads/2024/08/favicongoogle.webp">
-    <title>Member77 : Lokasi Game Online Terpopuler Asia</title>
-    <meta name="title" content="Member77 : Lokasi Game Online Terpopuler Asia">
-    <meta name="description" content="adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.">
-    <meta property="og:image" content="https://jpgsatset.com/wp-content/uploads/2024/09/jkt48.avif"/>
-    <meta property="og:title" content="member77">
-    <meta property="og:type" content="website,picture">
-    <meta property="og:description" content="adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.">
-    <meta property="og:url" content="https://member77login.github.io/member77/">
     <style amp-boilerplate>
         body {
             -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
