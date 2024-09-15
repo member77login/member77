@@ -339,13 +339,8 @@
                     <a href="https://bayarcuan.com/member77login2" class="klikajah" rel="nofollow">
                         <div class="debar">LOGIN 2 member77</div>
                     </a>
-                    <a href="https://bayarcuan.com/member77login2" class="klikajah" rel="nofollow">
-                        <div class="debar">Group RTP</div>
-                    </a>
                 </div>
-                <a href="https://bayarcuan.com/member77lc" rel="nofollow">
-                    <button>LIVECHAT</button>
-                </a>
+
 
                 <h1>Member77 : Lokasi Game Online Terpopuler Asia</h1>
                 <p>member77 adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.</p>
