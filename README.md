@@ -333,8 +333,7 @@
                 </div>
 
 
-                <h2>Member77 : Lokasi Game Online Terpopuler Asia</h2>
-                <p>member77 adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.</p>
+                <p>member77 adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menariks.</p>
                 <div class="footer">
                     <p>&copy;2024 | <a href="https://member77login.github.io/member77/">member77</a></p><br><br>
                 </div>
