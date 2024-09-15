@@ -11,11 +11,11 @@
 	<link rel="icon" type="image/x-icon" href="https://jpgsatset.com/wp-content/uploads/2024/08/favicongoogle.webp">
     <title>Member77 : Lokasi Game Online Terpopuler Asia</title>
     <meta name="title" content="Member77 : Lokasi Game Online Terpopuler Asia">
-    <meta name="description" content="member77 adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.">
+    <meta name="description" content="adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.">
     <meta property="og:image" content="https://jpgsatset.com/wp-content/uploads/2024/09/jkt48.avif"/>
     <meta property="og:title" content="member77">
     <meta property="og:type" content="website,picture">
-    <meta property="og:description" content="member77 adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.">
+    <meta property="og:description" content="adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.">
     <meta property="og:url" content="https://member77login.github.io/member77/">
     <style amp-boilerplate>
         body {
@@ -342,7 +342,7 @@
                 </div>
 
 
-                <h1>Member77 : Lokasi Game Online Terpopuler Asia</h1>
+                <h2>Member77 : Lokasi Game Online Terpopuler Asia</h2>
                 <p>member77 adalah lokasi game online terpopuler di dunia dengan pemain terbanyak di member77 setiap hari nya yang memberikan berbagai event menarik.</p>
                 <div class="footer">
                     <p>&copy;2024 | <a href="https://member77login.github.io/member77/">member77</a></p><br><br>
